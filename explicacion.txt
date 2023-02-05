@@ -1,0 +1,11 @@
+Hola buen dia.
+
+Para correr la app desde la raiz npm run serve.
+
+Tiene 3 vistas, un log in
+
+Convertidor de divisas: Podes seleccionar entre 2 divisas y te hace el cambio. Si la divisa 1 es distan de dolar.
+Hago una regla de 3 simples para conseguir el cambio.
+
+Comparacion de valores: lo que hace esta vista es que podes seleccionar una divisa principal. Y podes seleccionar entre 5 divisas y te hace la diferencia.
+Transforma la divisa a comprar a la divsa 1 y calcula la diferencia.
